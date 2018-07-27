@@ -1,1 +1,3 @@
 # dog.rb
+def dog
+  
