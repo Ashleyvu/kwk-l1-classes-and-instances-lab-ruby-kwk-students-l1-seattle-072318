@@ -13,3 +13,4 @@ def fido
   @fido 
 end
 dog_one = Dog.new("fido","snoopy","lassie")
+puts dog_one
