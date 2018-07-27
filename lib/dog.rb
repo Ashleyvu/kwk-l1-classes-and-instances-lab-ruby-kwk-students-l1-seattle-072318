@@ -3,9 +3,13 @@ name = "fido","snoopy","lassie"
   
   class Dog 
     attr_writer
-    def initialize(name)
+    def initialize(fido, snoopy, lassie)
     @fido = fido 
     @snoopy = snoopy
     @lassie = lassie
   end
 end 
+def fido
+  @fido 
+end
+dog_one = dog
