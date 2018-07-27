@@ -1,5 +1,5 @@
 # dog.rb
-name = "fido","snoopy","lassie"
+# name = "fido","snoopy","lassie"
   
   class Dog 
     attr_writer
