@@ -12,4 +12,4 @@ end
 def fido
   @fido 
 end
-dog_one = dog
+dog_one = Dog.new
