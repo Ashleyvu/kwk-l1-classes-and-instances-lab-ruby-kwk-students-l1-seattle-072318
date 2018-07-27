@@ -2,7 +2,7 @@
 
   
   class dog 
-    attr_
+    attr_writer
     def initialize(name)
     @fido = fido 
     @snoopy = snoopy
