@@ -1,7 +1,7 @@
 # dog.rb
 
   
-  class dog 
+  class Dog 
     attr_writer
     def initialize(name)
     @fido = fido 
